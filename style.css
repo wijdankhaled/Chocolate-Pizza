@@ -1,0 +1,178 @@
+
+body{
+    margin:auto;
+    position: relative;
+}
+header  img{
+    float: left;
+}
+nav{
+    float:right;
+    margin-bottom: 200px;
+}
+h1{
+    font-family:cursive;
+
+}    
+#big{
+    width: 100%;
+}
+
+
+ #list2{
+     float: right;
+    
+
+ }
+footer  h4 p{
+    float: right;
+}
+
+
+#print{
+    float: right;
+   padding-left:500px;
+   color: gray;
+   font-size: 12px;
+}
+ #print {
+    float: right;
+    padding-left: 500px;
+    color: gray;
+    font-size: 12px;
+    position: relative;
+    left: 185px;
+    top: 30px;
+}
+#printimg {
+    
+    float: right;
+    padding-left: 500px;
+    position: relative;
+    left: 140px;
+}
+#big{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto 
+    
+}
+#logo{
+    width: 30px;
+    height:auto;
+    
+ 
+    
+}
+ .h11{
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-left: 30px;
+
+}
+h2{
+    background-image: url(hr-img.png);
+    background-repeat: repeat-x;
+    position: relative;
+    bottom: 250px;
+}
+
+
+#h55{
+    color: gray;
+    margin-left: 30px;
+    margin-top: 1px;
+    display: inline-block;
+    text-align: left;
+    padding-left: 30px;
+    position: relative;
+    bottom: 15px;
+    right: 5px;
+}
+.ve{
+    float: right;
+    padding-right: 1020px;
+    position: relative;
+    bottom: 250px;
+}
+.v{
+    position: relative;
+    position: relative;
+    bottom: 40px;
+    padding-left: 80px;
+    position: relative;
+    bottom: 290px;
+}
+#bt{
+    background-color: rgb(143, 31, 31);
+    padding: 6px 6px;
+ text-align: center;
+ position: relative;
+ left: 750px;
+ bottom: 50px;
+ bottom:  340px;
+}
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+    color: gray;
+}
+
+
+#l1{
+ 
+  position: relative;
+  bottom: 260px;
+  left: 20px;
+} 
+#l2{
+    position: relative;
+    bottom: 400px;
+    left: 430px;
+}
+#vimg{
+    position: relative;
+    bottom: 250px;
+}
+h3{
+    background-image: url(hr-img.png);
+    background-repeat: repeat-x;
+}
+h6{
+    color: gray;
+    font-size: 12px;
+    position: relative;
+    bottom: 20px;
+    left: 12px;
+}
+#img7{
+    position: relative;
+    left: 5px;
+}
+#small{
+    position: relative;
+    bottom: 200px;
+    left: 480px;
+}
+h7{
+   
+    position: relative;
+    bottom: 300px;
+    color: gray;
+
+}
+h8{
+   
+    position: relative;
+    bottom: 300px;
+    color: gray;
+    left: 70px;
+    
+}
+.paragraph{
+    text-indent:30px;
+  text-align: justify;
+  
+}
